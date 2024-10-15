@@ -1,0 +1,9 @@
+/* custom.css */
+.monaco-quick-open-widget {
+    top: 30% !important;
+    /* Ajusta este valor según tus preferencias */
+    backdrop-filter: blur(10px);
+    /* Aplica el efecto de desenfoque */
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    /* Ajusta el color de fondo y la opacidad */
+}
